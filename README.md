@@ -17,6 +17,9 @@ Decrypt files with the corresponding keys.
 Prerequisites:
 
 OpenSSL installed on your system.
+
 After adding the enc-dec.sh file make it executable by going to the directory its saved in and give the command chmod +x enc-dec.sh
 after that you can run it by giving the command ./enc-dec.sh
+
+
 Contributions welcome!
